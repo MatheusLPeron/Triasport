@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/33083319/README.md)
+
 # TriaSport
 
 Apoio à decisão do médico avaliador na avaliação cardiovascular pré-participação esportiva.
